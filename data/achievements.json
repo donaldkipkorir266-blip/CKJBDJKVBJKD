@@ -1,0 +1,64 @@
+{
+  "achievements": [
+    {
+      "title": "Amina - From Kibera to University",
+      "description": "Amina joined KGSA in 2015 as a timid 12-year-old. Through sports and education support, she developed confidence and academic excellence. She is now in her second year at University of Nairobi studying Engineering.",
+      "impact": "Transitioned from struggling in school to top marks; now pursuing higher education in a male-dominated field.",
+      "year": 2015
+    },
+    {
+      "title": "100% Secondary School Completion Rate",
+      "description": "In 2024, 100% of KGSA girls completed their secondary school education and passed their final exams. This is significantly higher than the regional average of 62%.",
+      "impact": "All 45 girls in the 2024 cohort will transition to higher education or professional training.",
+      "year": 2024
+    },
+    {
+      "title": "Soccer Tournament Champions",
+      "description": "KGSA girls' soccer team won the Kibera Youth Sports Championship for the third consecutive year in 2024. The team demonstrated exceptional skill, teamwork, and sportsmanship.",
+      "impact": "Builds confidence and creates positive role models for younger girls in the community.",
+      "year": 2024
+    },
+    {
+      "title": "Life Skills Impact Study",
+      "description": "Research conducted in 2023 showed that 87% of KGSA girls reported improved financial literacy, 91% showed increased leadership confidence, and 94% had better understanding of health and safety topics.",
+      "impact": "Evidence-based demonstration that our holistic approach works.",
+      "year": 2023
+    },
+    {
+      "title": "First Alumni Medical Doctor",
+      "description": "Dr. Mary Omondi, KGSA graduate of 2010, completed her medical degree at Kenyatta University in 2023 and is now practicing at Nairobi Hospital. She mentors current KGSA students.",
+      "impact": "Inspires current students to pursue ambitious career goals; demonstrates breaking the poverty cycle.",
+      "year": 2023
+    },
+    {
+      "title": "Partnership with International NGO",
+      "description": "KGSA established partnership with Global Girls Forum, an international organization supporting girls' education. This brought in additional resources and training for our staff.",
+      "impact": "Expanded capacity to serve more girls; access to international best practices.",
+      "year": 2023
+    },
+    {
+      "title": "95% University Admission Rate",
+      "description": "Of the 80 KGSA girls who sat for university entrance exams in 2023, 76 gained admission to top Kenyan universities. 12 received full scholarships.",
+      "impact": "Demonstrates academic excellence and opens doors to higher education.",
+      "year": 2023
+    },
+    {
+      "title": "Community Scholarship Program",
+      "description": "KGSA alumni and donors established a scholarship fund in 2022 that has supported 30 girls from vulnerable families to continue their education without fear of dropping out.",
+      "impact": "Ensures that economic barriers don't prevent girls from staying in school.",
+      "year": 2022
+    },
+    {
+      "title": "Sports Sponsorship Deal",
+      "description": "In 2022, a local sports company provided equipment, uniforms, and training resources worth 2 million KES to support our four sports programs.",
+      "impact": "Expanded sports offerings and improved quality of athletic training.",
+      "year": 2022
+    },
+    {
+      "title": "500+ Girls Reached Milestone",
+      "description": "KGSA celebrated supporting its 500th girl through our programs in 2022. Each girl's life has been positively impacted through education, sports, and community support.",
+      "impact": "Demonstrates the scale and reach of our impact in the Kibera community.",
+      "year": 2022
+    }
+  ]
+}
