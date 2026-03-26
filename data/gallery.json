@@ -1,0 +1,76 @@
+{
+  "gallery": [
+    {
+      "title": "Soccer Training Session",
+      "description": "Girls soccer team during afternoon training at our facilities",
+      "category": "sports",
+      "icon": "⚽"
+    },
+    {
+      "title": "Classroom Lessons",
+      "description": "Students engaging in interactive mathematics lesson",
+      "category": "education",
+      "icon": "📚"
+    },
+    {
+      "title": "Tennis Championship 2024",
+      "description": "KGSA tennis player competing in regional championship",
+      "category": "sports",
+      "icon": "🎾"
+    },
+    {
+      "title": "Community Gathering",
+      "description": "KGSA girls and community members at monthly gathering",
+      "category": "community",
+      "icon": "🤝"
+    },
+    {
+      "title": "Annual Sports Day",
+      "description": "Track and field events bringing together all KGSA athletes",
+      "category": "events",
+      "icon": "🏃"
+    },
+    {
+      "title": "Life Skills Workshop",
+      "description": "Girls learning financial literacy from visiting professional",
+      "category": "education",
+      "icon": "💰"
+    },
+    {
+      "title": "Netball Match",
+      "description": "KGSA netball team in competitive inter-school match",
+      "category": "sports",
+      "icon": "🏐"
+    },
+    {
+      "title": "Mentorship Pairing",
+      "description": "Alumni mentor with current student discussing university preparation",
+      "category": "community",
+      "icon": "👩‍🎓"
+    },
+    {
+      "title": "Rugby Training",
+      "description": "Intensive rugby training building strength and team skills",
+      "category": "sports",
+      "icon": "🏉"
+    },
+    {
+      "title": "Science Lab Session",
+      "description": "Girls conducting practical science experiments",
+      "category": "education",
+      "icon": "🔬"
+    },
+    {
+      "title": "End of Year Gala",
+      "description": "Celebration of achievements with families and supporters",
+      "category": "events",
+      "icon": "🎉"
+    },
+    {
+      "title": "Health Awareness Campaign",
+      "description": "Community health screening and awareness event at KGSA",
+      "category": "community",
+      "icon": "❤️"
+    }
+  ]
+}
