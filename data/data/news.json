@@ -1,0 +1,28 @@
+{
+  "news": [
+    {
+      "title": "University Admissions - Class of 2026",
+      "date": "2026-03-15",
+      "excerpt": "Congratulations to 78 KGSA girls who have gained admission to top universities across Kenya. 15 received full scholarship awards.",
+      "category": "achievements"
+    },
+    {
+      "title": "New Sports Facility Opening",
+      "date": "2026-02-20",
+      "excerpt": "KGSA is thrilled to announce the opening of our new multi-purpose sports facility, thanks to generous donations from our supporters.",
+      "category": "facilities"
+    },
+    {
+      "title": "Volunteer Opportunities for Q2 2026",
+      "date": "2026-03-01",
+      "excerpt": "We are recruiting sports coaches, academic tutors, and life skills facilitators for the second quarter. Join our mission to empower girls!",
+      "category": "volunteering"
+    },
+    {
+      "title": "Alumni Success: Dr. Omondi's Inspiring Journey",
+      "date": "2026-01-30",
+      "excerpt": "Meet Dr. Mary Omondi, KGSA Class of 2010, now practicing medicine and mentoring our current students.",
+      "category": "alumni"
+    }
+  ]
+}
