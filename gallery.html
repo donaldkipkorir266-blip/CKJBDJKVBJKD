@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery - Kibera Girls Soccer Academy</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="navbar-container">
+            <div class="logo">
+                <h1>KGSA</h1>
+                <p class="tagline">Kibera Girls Soccer Academy</p>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="what-we-do.html">What We Do</a></li>
+                <li><a href="achievements.html">Achievements</a></li>
+                <li><a href="gallery.html" class="active">Gallery</a></li>
+                <li><a href="get-involved.html">Get Involved</a></li>
+                <li><a href="donate.html" class="btn-donate">Donate</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <!-- Page Header -->
+        <section class="page-header">
+            <div class="container">
+                <h2>Gallery</h2>
+                <p>Moments of Empowerment and Growth</p>
+            </div>
+        </section>
+
+        <!-- Gallery Grid -->
+        <section class="gallery-section">
+            <div class="container">
+                <div id="gallery-container" class="gallery-grid">
+                    <!-- Loaded dynamically from gallery.json -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Modal for image viewing -->
+        <div id="imageModal" class="modal">
+            <span class="close">&times;</span>
+            <img class="modal-content" id="modalImage">
+            <div id="caption"></div>
+        </div>
+
+        <!-- CTA -->
+        <section class="cta">
+            <div class="container">
+                <h3>Share the Stories</h3>
+                <p>Help us spread the word about KGSA by sharing these stories on social media.</p>
+                <a href="get-involved.html" class="btn btn-primary">Get Involved</a>
